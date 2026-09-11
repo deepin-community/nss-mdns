@@ -1,8 +1,12 @@
-nss-mdns (0.15.1-1) UNRELEASED; urgency=medium
+nss-mdns (0.15.1-2) unstable; urgency=medium
 
+  [ Utopia Maintenance Team ]
   * update
 
- -- Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>  Thu, 19 May 2022 10:47:15 +0800
+  [ tunaichao ]
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 17:21:58 +0800
 
 nss-mdns (0.15.1-1) unstable; urgency=medium
 
